@@ -1,0 +1,4 @@
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\modelo\Libro.class
+.netbeans_automatic_build
+com\emergentes\controlador\MainController.class
