@@ -11,7 +11,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1><%=(opc == 0) ? "Nuevo " : "Editar "%>libro</h1>
+        <h1><%=(opc == 0) ? "Nuevooo " : "Editar "%>libro</h1>
         <form action="MainController?op=<%=(opc == 0) ? "nuevo " : "editar "%>" method="post">
             <input type='hidden' name='id' value='${lib.id}'>
             <table>
