@@ -34,6 +34,5 @@
                 <td><input type='submit'></td>
             </table>
         </form>
-        <a href="MainController">Regresar</a>
     </body>
 </html>
